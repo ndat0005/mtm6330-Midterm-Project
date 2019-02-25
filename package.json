@@ -1,0 +1,25 @@
+{
+  "name": "mtm6330-midterm-project",
+  "version": "1.0.0",
+  "description": "midterm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndat0005/mtm6330-Midterm-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndat0005/mtm6330-Midterm-Project/issues"
+  },
+  "homepage": "https://github.com/ndat0005/mtm6330-Midterm-Project#readme",
+  "dependencies": {
+    "gulp": "^4.0.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.0.2"
+  }
+}
