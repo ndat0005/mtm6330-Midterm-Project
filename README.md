@@ -1,2 +1,6 @@
 # mtm6330-Midterm-Project
-midterm project 
+midterm project
+
+ndatinya herve
+
+section: 010
